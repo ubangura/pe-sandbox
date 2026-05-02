@@ -1,0 +1,5 @@
+{
+  "name": "custom-image",
+  "version": "1.0.0",
+  "description": "A custom Docker image"
+}
